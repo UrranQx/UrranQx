@@ -1,4 +1,11 @@
 ### Hi there 👋
+# I'm Urran and I just started to learn CS
+___
+- [x] KotlinAtFirst
+- [?] 🔭 I’m currently changing my workflow to Java ...
+- [ ] GUI app as my semister project
+- [ ] Full course of graph theory
+- [ ] Telegram bot
 
 <!--
 **UrranQx/UrranQx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
