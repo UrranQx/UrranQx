@@ -1,8 +1,8 @@
 ### Hi there 👋
 # I'm Urran and I just started to learn CS
+*🔭 I’m currently changing my workflow to Java ...*
 ___
 - [x] KotlinAtFirst
-- [?] 🔭 I’m currently changing my workflow to Java ...
 - [ ] GUI app as my semister project
 - [ ] Full course of graph theory
 - [ ] Telegram bot
