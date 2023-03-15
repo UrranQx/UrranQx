@@ -4,7 +4,7 @@
 ___
 - [x] KotlinAtFirst
 - [ ] GUI app as my semister project
-- [ ] Full course of graph theory
+- [ ] All famous Abstract Data Structures
 - [ ] Telegram bot
 
 <!--
