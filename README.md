@@ -4,7 +4,7 @@
 ___
 - [x] KotlinAtFirst
 - [ ] GUI app as my semister project
-- [ ] All famous Abstract Data Structures
+- [ ] All famous Abstract data types
 - [ ] Telegram bot
 
 <!--
