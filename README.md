@@ -3,7 +3,7 @@
 *🔭 I’m currently changing my workflow to Java ...*
 ___
 - [x] KotlinAtFirst
-- [ ] GUI app as my semister project
+- [X] GUI app as my semister project
 - [ ] All famous Abstract data types
 - [ ] Telegram bot
 
