@@ -2,7 +2,7 @@
 # I'm Urran and I just started to learn CS
 *🔭 I’m currently changing my workflow to Java ...*
 ___
-- [x] KotlinAtFirst
+- [x] KotlinAsFirst
 - [X] GUI app as my semister project
 - [ ] All famous Abstract data types
 - [ ] Telegram bot
