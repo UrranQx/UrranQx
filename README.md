@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Urran and I just started to learn CS
-*🔭 I’m currently changing my workflow to Java ...*
+*🔭 I’m currently changing my workflow to C/C++ ...*
 ___
 - [x] KotlinAsFirst
 - [X] GUI app as my semister project
