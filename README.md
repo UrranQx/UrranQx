@@ -1,11 +1,14 @@
-### Hi there 👋
-# I'm Urran and I just started to learn CS
-*🔭 I’m currently changing my workflow to C/C++ ...*
+### whoami
+# I'm Urran and I just started to learn CS - Bachelor (2nd course)
+*🔭 I’m currently changing my workflow from Java to C/C++ ...*
 ___
 - [x] KotlinAsFirst
 - [X] GUI app as my semister project
 - [ ] All famous Abstract data types
 - [ ] Telegram bot
+
+___
+_Additional - a most commits here are just my private archives of code and sometimes even notes._
 
 <!--
 **UrranQx/UrranQx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
