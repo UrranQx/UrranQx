@@ -1,6 +1,7 @@
-### whoami
-# I'm Urran and I just started to learn CS - Bachelor (2nd course)
-*🔭 I’m currently changing my workflow from **Java** to **C/C++*** ...*
+### > whoami
+# Urran 
+> - CS bachelor (2nd course)
+> - *🔭 I’m currently changing my workflow from **Java** to **C/C++*** ...*
 ___
 - [x] KotlinAsFirst
 - [X] GUI app as my semister project
