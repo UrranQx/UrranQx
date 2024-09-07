@@ -1,6 +1,6 @@
 ### > whoami
 # Urran 
-> - CS bachelor (2nd course)
+> - CS bachelor (3rd course)
 > - *🔭 I’m currently changing my workflow from **Java** to **C/C++*** ...*
 ___
 - [x] KotlinAsFirst
